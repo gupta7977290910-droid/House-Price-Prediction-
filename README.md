@@ -109,12 +109,6 @@ The following metrics were used to evaluate the Linear Regression model:
 - Mean Squared Error (MSE)
 - R² Score
 
-**Actual Results:** Add your calculated MSE and R² Score below after running your model.
-
-- MSE: `Add your actual MSE value`
-- R² Score: `Add your actual R² score`
-
-*Note: Actual evaluation values should be reported from your model's results.*
 
 ## 🚀 How to Run the Project
 
